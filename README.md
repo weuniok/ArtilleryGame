@@ -1,5 +1,5 @@
 # ArtilleryGame
-MATLAB trianing project
+MATLAB training project implementing [Artillery Game](https://en.wikipedia.org/wiki/Artillery_game?useskin=vector) in MATLAB using MATLAB GUI.
 
 Play by running appTanks in MATLAB
 
